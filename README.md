@@ -293,3 +293,4 @@ while(1)
 
 
 **Result :**
+ Successfully completed a C program to implement 2D transformation of image.
